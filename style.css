@@ -1,0 +1,89 @@
+.header{
+	height:50px;
+	width:960px;
+	padding-top:30px;
+	margin-bottom:20px;
+	background-color:white;
+	text-align:center;
+}
+.nav{
+
+	height:50px;
+	width:960px;
+	padding-top:30px;
+	margin-bottom:20px;
+	width:960px;
+	background-color:white;
+	text-align:center;
+	font-size:18px;
+
+}
+.over{
+	float:left;
+	width:495px;
+	background-color:white;
+	height:250px;
+	font-size:18px;
+	margin-right:20px;
+	text-align:center;
+}
+
+.article{
+	background-color:#777;
+	color:white;
+	margin-left:10px;
+	margin-right:5px;
+	height:180px;
+	width:475px;
+	text-align:center;
+	position:absolute;
+	top:265px;
+}
+.list{
+	color:black;
+	background-color:white;
+	width:455px;
+	height:50px;
+	margin-bottom:5px;
+	text-align:center;
+	position:relative;	
+	left:10px;
+	top:28px;
+
+}
+.paragraph{
+	color:black;
+	background-color:white;
+	width:455px;
+	height:50px;
+	margin-bottom:5px;
+	text-align:center;
+	position:relative;	
+	left:10px;
+	top:45px;
+}
+.aside{
+	float:left;
+	width:445px;
+	text-align:center;
+	background-color:white;
+	height:250px;
+	font-size:18px;
+	position:absolute;
+	left:515px;
+
+}
+.footer{
+color:black;
+background-color:white;
+position:absolute;
+top:480px;
+height:50px;
+width:960px;
+padding-top:30px;
+text-align:center;
+}
+.all{
+	position:absolute;
+	right:25%;
+}
